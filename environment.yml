@@ -11,6 +11,7 @@ dependencies:
 - pandas
 - xlrd
 - scikit-learn
+- tensorflow
 - h5py
 - pillow
 - statsmodels
