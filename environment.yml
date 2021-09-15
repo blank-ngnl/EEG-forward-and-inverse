@@ -11,7 +11,6 @@ dependencies:
 - pandas
 - xlrd
 - scikit-learn
-- tensorflow
 - h5py
 - pillow
 - statsmodels
@@ -40,3 +39,4 @@ dependencies:
 - ipywidgets
 - pip:
   - ipyvtklink
+  - tensorflow
