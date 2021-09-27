@@ -40,3 +40,4 @@ dependencies:
 - pip:
   - ipyvtklink
   - tensorflow
+  - tensorflow-plot
