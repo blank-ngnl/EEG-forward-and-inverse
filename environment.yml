@@ -5,7 +5,7 @@ dependencies:
 - python>=3.8
 - pip
 - numpy
-- scipy
+- scipy=1.6.2
 - matplotlib
 - numba
 - pandas
