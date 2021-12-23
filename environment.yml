@@ -40,3 +40,6 @@ dependencies:
 - pip:
   - ipyvtklink
   - tensorflow
+  - pydot
+  - pydotplus
+  - graphviz
