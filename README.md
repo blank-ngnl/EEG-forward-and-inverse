@@ -217,5 +217,5 @@ The chosen time points are 0s, 0.665s, 1.331s, and 1.996s out of the 2s-long dur
 
 <img src="Figure/subject%203%201.0%20no%20binary.png" width="200" />
 <img src="Figure/subject%201%2089.28.png" width="200" />
-<img src="Figure/subject%209%2097.95.png" width="200" />s
+<img src="Figure/subject%209%2097.95.png" width="200" />
 <img src="Figure/subject%209%2094.00.png" width="200" />
